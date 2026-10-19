@@ -5,8 +5,9 @@
 <h1 align="center">Olá! Eu sou um desenvolvedor em evolução 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Formado+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Estudando+Java+e+Spring+Boot;Desenvolvendo+com+Python;Aprendendo+e+evoluindo+todos+os+dias" alt="Animação de texto"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Formado+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Estudando+Java+e+Spring+Boot;Aprendendo+testes+de+software;Desenvolvendo+com+Python;Evoluindo+a+cada+dia" alt="Animação de texto" />
 </p>
+
 
 ---
 
