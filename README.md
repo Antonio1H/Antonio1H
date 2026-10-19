@@ -1,4 +1,3 @@
-<!-- Cabeçalho -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:240046,100:3A0CA3&height=180&section=header&text=Antonio%20Henrique&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Cabeçalho de Antonio Henrique"/>
 </p>
