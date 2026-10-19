@@ -1,5 +1,8 @@
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4C1D95,100:2563EB&height=200&section=header&text=Ol%C3%A1%2C%20mundo!&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Banner roxo e azul"/>
+
+<h1 align="center">Antonio Henrique</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Java+%26+Spring+Boot;Quality+Assurance+%28QA%29;Desenvolvimento+Python;An%C3%A1lise+de+Dados;Aprendendo%2C+desenvolvendo+e+evoluindo" alt="Áreas de estudo" />
 </p>
 
 <h1 align="center">Olá! Eu sou um desenvolvedor em evolução 👨‍💻</h1>
