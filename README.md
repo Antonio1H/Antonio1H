@@ -23,11 +23,13 @@
   <img src="https://skillicons.dev/icons?i=java,spring,python,git,github,idea,postman&theme=dark" alt="Tecnologias e ferramentas"/>
 </p>
 
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Antonio1H&show_icons=true&hide_border=true&bg_color=090014&title_color=A855F7&text_color=E5E7EB&icon_color=38BDF8&include_all_commits=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio1H&layout=compact&hide_border=true&bg_color=090014&title_color=A855F7&text_color=E5E7EB" alt="Linguagens mais utilizadas"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Antonio1H&show_icons=true&hide_border=true&bg_color=090014&title_color=A855F7&text_color=E5E7EB&icon_color=38BDF8&include_all_commits=true" alt="Estatísticas do GitHub"/>
+
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Antonio1H&layout=compact&hide_border=true&bg_color=090014&title_color=A855F7&text_color=E5E7EB" alt="Linguagens mais utilizadas"/>
 </p>
 
 ## 🐍 Minhas contribuições
