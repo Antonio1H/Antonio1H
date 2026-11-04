@@ -12,7 +12,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Formado em Ciência da Computação pela UNICAP.
-- ☕ Estudando Java e Spring Boot para desenvolvimento back-end.
+- ☕ Estudando Java e Spring Boot para desenvolvimento full-stack.
 - 🧪 Interessado em Qualidade de Software (QA) e testes de sistemas.
 - 📊 Experiência em projeto de análise de dados utilizando Python.
 - 🚀 Buscando aprimorar minhas habilidades e desenvolver soluções cada vez melhores.
